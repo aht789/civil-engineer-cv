@@ -12,9 +12,6 @@ I'm a Civil Engineer currently working as a QA/QC<br>Engineer/Inspector in Infra
 ![](https://streak-stats.demolab.com/?user=Amiel Henrich Tan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amiel Henrich Tan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Amiel Henrich Tan&icon=0&color=0)](https://visitcount.itsvg.in)
 
